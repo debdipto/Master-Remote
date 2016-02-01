@@ -1,0 +1,28 @@
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\bin\Release\OculusMasterRemote.exe.config
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\bin\Release\OculusMasterRemote.exe
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\bin\Release\OculusMasterRemote.pdb
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.ConnectTo.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.Controller.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.frm_Main.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.MultiChat.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.PiClient.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.Properties.Resources.resources
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.csproj.GenerateResource.Cache
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.exe
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.pdb
+C:\Users\debdipto\Documents\Visual Studio 2013\Projects\Setup\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.csprojResolveAssemblyReference.cache
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\bin\Release\EvergreenMasterRemote.exe.config
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\bin\Release\EvergreenMasterRemote.exe
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\bin\Release\EvergreenMasterRemote.pdb
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\bin\Release\Newtonsoft.Json.dll
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\bin\Release\Newtonsoft.Json.xml
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.csprojResolveAssemblyReference.cache
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.ConnectTo.resources
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.Controller.resources
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.frm_Main.resources
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.MultiChat.resources
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.PiClient.resources
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.Properties.Resources.resources
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\OculusMasterRemote.csproj.GenerateResource.Cache
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.exe
+E:\C# backup\Amaranthine\OculusMasterRemote\OculusMasterRemote\obj\Release\EvergreenMasterRemote.pdb
